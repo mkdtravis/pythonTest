@@ -1,4 +1,4 @@
 os: linux
 dist: focal
 language: shell
-script: echo testing
+script: echo testingg
