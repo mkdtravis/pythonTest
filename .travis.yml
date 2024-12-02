@@ -1,4 +1,4 @@
 os: linux
-dist: focal
+dist: bionic
 language: shell
 script: echo testingg
